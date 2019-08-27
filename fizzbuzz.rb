@@ -8,6 +8,7 @@ def fizzbuzz(int)
     returns "Buzz"
   elsif int % 3 == 0 
     returns "Fizz"
-end
+    
+  end
 
 end
