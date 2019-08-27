@@ -9,4 +9,4 @@ return "Fizz"
 elsif int % 5 == 0
 return "buzz"
 end
-end
+
